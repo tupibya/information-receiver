@@ -1,5 +1,5 @@
 {
-  "name": "Earthquake Early Warning Recever",
+  "name": "eewr",
   "short_name": "eewr",
   "start_url": "./",
   "scope": "./",
