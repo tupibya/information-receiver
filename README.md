@@ -20,7 +20,7 @@
 即時に情報を受信して表示するものです。  
 ## バージョン(更新履歴・内容)
 ### v1.0 ~ v5.12
-作成&公開  
+- 作成&公開  
 - 題名を「earthquake-early-warning-receiver」から「earthquake-infomation-receiver」に変更(緊急地震速報以外の情報も載せる可能性があるため)
 - 「seismic-wave-countdown」を追加
 - 「earthquake-early-warning-receiver」をバージョンアップにつきこちらもバージョンアップ
@@ -52,7 +52,7 @@
 - アイコン付けた
 - アイコンによる修正
 - アイコンによる修正×2
-### v6.0 ~ v9.7
+### v6.0 ~ v10.0
 - 色々
 - 「README.md」の改行できていなかった問題を修正
 - 「earthquake-early-warning-receiver.html」が故障(破棄までは行かない)
@@ -98,6 +98,7 @@
 - 色々と追加・削除・変更・修正
 - ボタンの説明を削除し、マウスカーソルをかざしたら表示されるように変更
 - 「earthquake/index.html」のtitle属性の値(文章)を変更
+- 諸々変更、試行錯誤の繰り返しコミット
 ## API詳細
 ### eewr
 [P2P地震情報](https://p2pquake.net)を使用しました。  
